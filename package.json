@@ -11,5 +11,6 @@
   },
   "dependencies": {
     "three": "^0.135.0"
-  }
+  },
+  "homepage": "."
 }
